@@ -8,4 +8,4 @@
 zbncs/zbncs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/mzy"><img src="https://github.com/zbncs/zbncs/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
