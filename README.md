@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhengyi Ma
 - 👀 I’m interested in coding, including Vue, React, Uniapp
-- 🌱 I’m currently learning nuxtjs,nestjs
+- 🌱 I’m currently learning java spring
 - 📫 How to reach me ...
 
 <!---
