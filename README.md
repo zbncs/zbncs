@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhengyi Ma
-- 👀 I’m interested in coding, including Vue, React, Uniapp
-- 🌱 I’m currently learning java spring
+- 👀 I’m interested in coding, including Vue, React, Uniapp，Java, Spring
+- 🌱 I’m currently learning C#, Rust
 - 📫 How to reach me ...
 
 <!---
