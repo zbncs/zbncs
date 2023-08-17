@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbncs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/mzy"><img src="https://github.com/zbncs/zbncs/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/mzy"><img src="https://api.daily.dev/devcards/eeb1ae490b504f149ddfd28c0331305e.png?r=rdl" width="400" alt="mzy's Dev Card"/></a>
