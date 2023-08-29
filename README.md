@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhengyi Ma
 - 👀 I’m interested in coding, including Vue, React, Uniapp，Java, Spring
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me ...
 
 <!---
