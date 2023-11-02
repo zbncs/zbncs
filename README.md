@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhengyi Ma
-- 👀 I’m interested in coding, including Vue, React, Uniapp，Java, Spring
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in coding, including Vue, React, React Native
+- 🌱 I’m currently learning nestjs
 - 📫 How to reach me ...
 
 <!---
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔭 My Frontend Skills
 
-![My Skills](https://skillicons.dev/icons?i=vue,react,nextjs,nodejs,typescript,tailwind,webpack,vite)
+![My Skills](https://skillicons.dev/icons?i=vue,react,nextjs,nodejs,typescript,tailwind,webpack,vite,reactnative)
 
 ### 🛠 Skills being learned
 
