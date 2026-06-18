@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔭 My Frontend Skills
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,tailwind,webpack,vite,reactnative,nestjs,vue)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,tailwind,webpack,vite,nestjs,vue,reactnative)
 
 ### 🛠 Skills being learned
 
