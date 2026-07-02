@@ -15,5 +15,3 @@ You can click the Preview link to take a look at your changes.
 ### 🛠 Skills being learned
 
 ![Tools I use](https://skillicons.dev/icons?i=threejs)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbncs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
